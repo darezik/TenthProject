@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=from\ to
+comment0.target=Cost(int,\ int)
+comment0.text=Stores\ the\ values\ passed\ in\ as\ parameters\ into\ the\ \n\ object's\ variables.\n\ The\ parameters\ are\:\n\ -->from\:Stores\ the\ Pin\ Code\ of\ the\ Area\ from\ which\n\ \ \ \ the\ mail\ originates.\n\ -->to\:Stores\ the\ Pin\ Code\ of\ the\ Area\ to\ which\ the\ \n\ \ \ \ mail\ is\ being\ sent.\n\ \ \ \ \n\ @param\ from\ The\ pin\ code\ the\ mail\ was\ sent\ from.\n\ @param\ to\ The\ pin\ code\ the\ mail\ was\ sent\ to.\n
+comment1.params=
+comment1.target=int\ Calc()
+comment1.text=Calculates\ the\ amount\ to\ be\ paid\ by\ the\ customer.\n\ Returns\ the\ cost\ as\ an\ int.\n\ The\ logic\ used\ for\ calculating\ the\ cost\ is\ as\ follows\:\n\ -->The\ numerical\ difference\ between\ the\ pin\ codes\ is\ \n\ \ \ \ calculated.\n\ -->If\ this\ difference\ is\ less\ than\ 100\ the\ mail\ is\ \n\ \ \ \ considered\ a\ local\ mail.\n\ -->For\ local\ mails\ the\ cost\ is\ equal\ to\ the\ \n\ \ \ \ difference\ of\ the\ areas'\ pin\ codes\ added\n\ \ \ \ to\ the\ base\ cost\ of\ Rs\ 10.\n\ -->For\ other\ mails\ the\ cost\ is\ equal\ to\ the\ \n\ \ \ \ difference\ of\ the\ areas'\ pin\ codes\ added\n\ \ \ \ to\ the\ base\ cost\ of\ Rs\ 100.\n\ \ \ \ \n\ @return\ cost\ The\ cost\ of\ sending\ the\ mail.\n
+numComments=2

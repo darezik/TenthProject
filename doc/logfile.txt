@@ -1,0 +1,31 @@
+Class documentation
+<---- javadoc command: ---->
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Home/bin/javadoc
+-author
+-version
+-nodeprecated
+-package
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.6
+-classpath
+/Applications/BlueJ 3.0.7/BlueJ.app/Contents/Resources/Java/bluejcore.jar:/Applications/BlueJ 3.0.7/BlueJ.app/Contents/Resources/Java/junit-4.8.2.jar:/Users/darezik/Public/Project.java
+-d
+/Users/darezik/Public/Project.java/doc
+-encoding
+MacRoman
+-charset
+MacRoman
+-docletpath
+/Applications/BlueJ 3.0.7/BlueJ.app/Contents/Resources/Java/bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+/Users/darezik/Public/Project.java/runApplication.java
+<---- end of javadoc command ---->
+Loading source file /Users/darezik/Public/Project.java/runApplication.java...
+Constructing Javadoc information...
+Standard Doclet version 1.6.0_35
+Building tree for all the packages and classes...

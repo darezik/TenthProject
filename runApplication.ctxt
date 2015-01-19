@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main()
+comment0.text=This\ is\ the\ main\ method.\n\ It\ is\ called\ when\ the\ program\ is\ executed.\n\ It\ creates\ a\ new\ Object\ named\ userInteractions\ \n\ of\ the\ ConsoleUserInteface\ class,\ and\ calls\ the\n\ begin()\ method\ of\ the\ object(userInteractions).\n
+numComments=1
